@@ -1,0 +1,2 @@
+Consultar o ficheiro Blockade.pl
+escrever "newgame." (sem aspas)
